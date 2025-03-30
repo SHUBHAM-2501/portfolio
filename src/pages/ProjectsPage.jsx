@@ -26,6 +26,7 @@ const projectsData = [
       'https://res.cloudinary.com/dboofis9s/image/upload/v1743331370/devmatch4_lur0na.jpg',
       'https://res.cloudinary.com/dboofis9s/image/upload/v1743331369/devmatch6_vsqg9v.jpg',
       'https://res.cloudinary.com/dboofis9s/image/upload/v1743331369/devmatch3_loxua7.jpg',
+      'https://res.cloudinary.com/dboofis9s/image/upload/v1743331369/devmatch1_xqffbn.jpg',
 
     ],
     technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Redux', 'Socket.io'],

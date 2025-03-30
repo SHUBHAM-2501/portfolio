@@ -76,7 +76,7 @@ export default function ProjectCard({ project }) {
         <Box sx={{ position: 'relative', overflow: 'hidden' }}>
           <CardMedia
             component="img"
-            height="300" // Increased from 200 to 300
+            height="450" // Increased from 300 to 350 for more height
             image={images[currentImageIndex]}
             alt={`${title} - Image ${currentImageIndex + 1}`}
             sx={{ 
@@ -84,7 +84,7 @@ export default function ProjectCard({ project }) {
               '&:hover': {
                 transform: 'scale(1.05)',
               },
-              objectFit: 'cover', // Ensures the image covers the area properly
+              objectFit: 'cover', 
               objectPosition: 'center',
             }}
           />
